@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My Projects which are Public:
+* Project Dragonfly
+* MIPS Multicore Microprocessor
+* Ultimate Cache
+My Projects which are Private:
+* Linux OS
+* $\Lambda$^+^ Interpreter
+<!--* BusTub Relational Database-->
 <!--
 **markoristicc/markoristicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
