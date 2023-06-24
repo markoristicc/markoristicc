@@ -2,7 +2,7 @@
 
 Some Public Projects:
 * [Project Dragonfly](https://github.com/markoristicc/Sensor_Stick): 
-This is my Capstone Project where I am working with a small team to create a low-profile sensor stick, which connects to drones via microUSB, along with associated firmware which performs Extended Kalman Filter state estimation using ROS library robot_localization
+This is my Capstone Project where I worked with a small team to create a low-profile sensor stick, which connects to drones via microUSB, along with associated firmware which performs Extended Kalman Filter state estimation using ROS library robot_localization, and performs visualizations in RViz
 * [MIPS Multicore Microprocessor](https://github.com/markoristicc/MIPS_MultiCore_Processor): 
 In this project, a partner and I implemented a dual-core microprocessor in verilog, complete with separate 2-way set associative LRU caches for instruction set and data memory, as well as a local 2-bit saturating branch predictor
 * [Ultimate Cache](https://github.com/markoristicc/ultimate_Cache): 
