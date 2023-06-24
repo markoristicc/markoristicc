@@ -1,6 +1,6 @@
-### Hi there 👋
+### yo yo 👋
 
-My Projects which are Public:
+Some Public Projects:
 * [Project Dragonfly](https://github.com/markoristicc/Sensor_Stick): 
 This is my Capstone Project where I am working with a small team to create a low-profile sensor stick, which connects to drones via microUSB, along with associated firmware which performs Extended Kalman Filter state estimation using ROS library robot_localization
 * [MIPS Multicore Microprocessor](https://github.com/markoristicc/MIPS_MultiCore_Processor): 
@@ -9,7 +9,7 @@ In this project, a partner and I implemented a dual-core microprocessor in veril
 This was my final project for Algorithmic Decision Making, where a partner and I implemented an adapative cache algorithm that achieved better performance than LRU, LFU, or MRU alone. (In certain situations 😬)
 
 
-My Projects which are Private:
+Some Private Projects:
 * Linux OS:
 This was a working Linux Kernel for a simulated MIPS architecture, complete with an I/O subsystem, process scheduling, multithreading, and inter-process communication.
 * $\lambda$+ Interpreter: 
