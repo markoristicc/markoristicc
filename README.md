@@ -1,4 +1,4 @@
-### yo yo 👋
+### 👋
 
 Some Public Projects:
 * [Project Dragonfly](https://github.com/markoristicc/Sensor_Stick): 
